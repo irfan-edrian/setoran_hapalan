@@ -120,7 +120,7 @@ export default function StudentDetail() {
         >
           <ArrowLeft className="text-slate-600 dark:text-slate-300" />
         </button>
-        <h1 className="text-2xl font-bold text-slate-900 dark:text-white">Detail Mahasiswa</h1>
+        <h1 className="text-2xl font-bold text-slate-900 dark:text-white">Detail Mahasiswa armadhan fithra</h1>
       </div>
 
       {message && (
